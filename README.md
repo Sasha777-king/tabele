@@ -1,0 +1,2 @@
+# tabele
+vscode.tabele.html
